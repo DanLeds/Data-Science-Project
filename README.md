@@ -7,7 +7,7 @@ Hello, welcome to my repositary. You will find all my Data Science projects I wo
 * SEO
 * Cryptocurrency
 * Stock Exchange
-* Rezal Estate
+* Real Estate
 * Socring Credit
 * Fraud
 * GO Game
