@@ -8,7 +8,7 @@ Hello, welcome to my repository. You will find all my Data Science projects I wo
 * Cryptocurrency
 * Stock Exchange
 * Real Estate
-* Socring Credit
+* Scoring Credit
 * Fraud
 * GO Game
 * Chess
