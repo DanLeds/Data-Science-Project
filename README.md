@@ -25,6 +25,8 @@ The real estate market is a goldmine of data waiting to be explored. My projects
 
 Credit scoring is at the heart of modern finance. My projects delve into the mechanics of credit scoring models, exploring how data science can assess risk, predict default, and enable financial institutions to make smarter lending decisions. Discover how data science is driving financial inclusion and security.
 
+* [credit scoring](https://github.com/DanLeds/Data-Science-Projects/tree/master/Scoring%20Credit)
+
 
 ## 🚨 Fraud Detection: Safeguarding Against the Unseen
 
