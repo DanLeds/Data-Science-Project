@@ -1,4 +1,4 @@
-comptes,historique_credit,objet_credit,epargne,anciennete_emploi,taux_effort,situation_familiale,garanties,anciennete_domicile,bien,autres_credits,statut_domicile,nb_credits,type_emploi,nb_pers_charge,telephone,age,duree_credit,montant_credit
+accounts,history_credit,object_credit,savings,employment_old,effort_rate,family_status,guarantees,home_old,property,other_credits,home_status,nb_credits,job_type,nb_of_dependants,telephone,age,duration_credit,amount_credit
 A11,A34,A43,A65,A75,4,A93,A101,4,A121,A143,A152,2,A173,1,A192,"[25.0, inf)","[0.0, 15.0)","[0.0, 4000.0)"
 A12,A32,A43,A61,A73,2,A92,A101,2,A121,A143,A152,1,A173,1,A191,"[0.0, 25.0)","[36.0, inf)","[4000.0, inf)"
 A14,A34,A46,A61,A74,2,A93,A101,3,A121,A143,A152,1,A172,2,A191,"[25.0, inf)","[0.0, 15.0)","[0.0, 4000.0)"
