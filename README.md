@@ -27,7 +27,7 @@ In the real estate domain, accurate data analysis is crucial for investment and 
 ## 💳 Credit Scoring Models: Assessing Risk and Creditworthiness
 
 Credit scoring is a fundamental component of the financial industry. This project explores the development of robust credit scoring models, focusing on assessing credit risk, predicting default probabilities, and enhancing the accuracy of lending decisions through machine learning techniques.
-* [credit scoring](https://github.com/DanLeds/Data-Science-Projects/tree/master/Scoring%20Credit)
+* [Credit Scoring](https://github.com/DanLeds/Data-Science-Projects/tree/master/Scoring%20Credit)
 
   
 ## 🚨 Fraud Detection: Protecting Against Financial Fraud
