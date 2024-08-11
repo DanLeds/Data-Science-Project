@@ -2,6 +2,7 @@
 
 This GitHub repository showcases a collection of my data science projects, each crafted with a focus on real-world applications and data-driven insights. These projects span across various domains, including finance, marketing, sports analytics, and more, demonstrating the versatility and impact of data science in solving complex problems. Whether you're a fellow data professional, a potential collaborator, or simply exploring the landscape of data science, this portfolio provides a comprehensive look at the methods, tools, and techniques that drive successful data-driven decision-making.
 Project Overview
+***
 
 ## 📝 SEO Analytics: Enhancing Search Engine Performance
 
@@ -49,7 +50,7 @@ At the intersection of art and data science, this project explores how data-driv
 Football is a data-rich sport with vast opportunities for analysis. This project focuses on player performance metrics, match outcome predictions, and tactical analysis, utilizing data science to offer deeper insights into the game. These insights can be used by teams and analysts to enhance strategies and improve outcomes.
 Collaboration and Contact
 
-
+*** 
 
 I invite you to explore these projects in detail. Each project is a testament to the practical application of data science in various industries, showcasing the potential for data-driven solutions to address complex challenges. If you are interested in collaborating or have any inquiries, please feel free to reach out. Let's connect and explore how data science can drive innovation and success in your organization.
 
