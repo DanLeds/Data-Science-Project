@@ -1,4 +1,4 @@
-# Welcome to My Data Science Portfolio! ⚗️🧪🖼️ 📓
+# 📓⚗️ Welcome to My Data Science Portfolio! 🧪🖼️ 
 
 This GitHub repository showcases a collection of my data science projects, each crafted with a focus on real-world applications and data-driven insights. These projects span across various domains, including finance, marketing, sports analytics, and more, demonstrating the versatility and impact of data science in solving complex problems. Whether you're a fellow data professional, a potential collaborator, or simply exploring the landscape of data science, this portfolio provides a comprehensive look at the methods, tools, and techniques that drive successful data-driven decision-making.
 Project Overview
