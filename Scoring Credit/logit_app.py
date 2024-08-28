@@ -18,14 +18,14 @@ import plotly.figure_factory as ff
 
 
 
-model = joblib.load('c:/Users/DL/Documents/MEGA/100 cas de PYTHON/Data_science_from_scratch/modelisation predictive version Python/logit_model.plk')
+model = joblib.load('c:/your_path/logit_model.plk')
 
 
 
 ################ Page configuration ##################################################################################################
 
 st.set_page_config(
-    page_title="Scoring Credit App",  # Titre de l'onglet
+    page_title="Scoring Credit App", 
     page_icon="💳",  
     layout="centered",  
     initial_sidebar_state="auto",
